@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/deploy-mirraw/static/css/main.888e7813.chunk.css",
-    "main.js": "/deploy-mirraw/static/js/main.9ef5a5ca.chunk.js",
-    "main.js.map": "/deploy-mirraw/static/js/main.9ef5a5ca.chunk.js.map",
+    "main.css": "/deploy-mirraw/static/css/main.c0a712e7.chunk.css",
+    "main.js": "/deploy-mirraw/static/js/main.22e1ba35.chunk.js",
+    "main.js.map": "/deploy-mirraw/static/js/main.22e1ba35.chunk.js.map",
     "runtime-main.js": "/deploy-mirraw/static/js/runtime-main.dd641f8c.js",
     "runtime-main.js.map": "/deploy-mirraw/static/js/runtime-main.dd641f8c.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/deploy-mirraw/static/css/2.4c97ca4f.chunk.css",
@@ -12,15 +12,14 @@
     "static/js/3.a0fc87cf.chunk.js.map": "/deploy-mirraw/static/js/3.a0fc87cf.chunk.js.map",
     "index.html": "/deploy-mirraw/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/deploy-mirraw/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.888e7813.chunk.css.map": "/deploy-mirraw/static/css/main.888e7813.chunk.css.map",
-    "static/js/2.c3284732.chunk.js.LICENSE.txt": "/deploy-mirraw/static/js/2.c3284732.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/deploy-mirraw/static/media/logo.6ce24c58.svg"
+    "static/css/main.c0a712e7.chunk.css.map": "/deploy-mirraw/static/css/main.c0a712e7.chunk.css.map",
+    "static/js/2.c3284732.chunk.js.LICENSE.txt": "/deploy-mirraw/static/js/2.c3284732.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.dd641f8c.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.c3284732.chunk.js",
-    "static/css/main.888e7813.chunk.css",
-    "static/js/main.9ef5a5ca.chunk.js"
+    "static/css/main.c0a712e7.chunk.css",
+    "static/js/main.22e1ba35.chunk.js"
   ]
 }
